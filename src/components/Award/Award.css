@@ -1,0 +1,16 @@
+
+.normal {
+}
+
+.chartBox {
+  background-color: #fff;
+  padding: 12px;
+  margin-top: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.tableBox {
+  margin-top: 16px;
+}

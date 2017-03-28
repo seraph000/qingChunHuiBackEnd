@@ -1,0 +1,22 @@
+
+.normal {
+}
+
+.row {
+  margin-bottom: 16px;
+}
+
+.cardBody {
+  padding: 16px;
+}
+
+.content1 {
+  color: #60BE29;
+  font-size: 30px;
+  text-align: right;
+}
+
+.content2 {
+  font-size: 30px;
+  text-align: right;
+}

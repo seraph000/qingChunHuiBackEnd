@@ -1,0 +1,36 @@
+
+.normal {
+  height: 100%;
+}
+
+.logo {
+  height: 32px;
+  background: #333;
+  border-radius: 6px;
+  margin: 16px;
+  color: #fff;
+  font-size: 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.bread {
+  margin: 10px 24px;
+}
+
+.content {
+  margin: 0 12px;
+  padding: 12px;
+  flex: 1;
+  overflow-y: auto;
+}
